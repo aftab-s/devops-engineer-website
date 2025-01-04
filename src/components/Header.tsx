@@ -15,6 +15,7 @@ export default function Header() {
             <a href="#about" className="text-gray-300 hover:text-emerald-400 transition-colors">About</a>
             <a href="#experience" className="text-gray-300 hover:text-emerald-400 transition-colors">Experience</a>
             <a href="#projects" className="text-gray-300 hover:text-emerald-400 transition-colors">Projects</a>
+            <a href="https://aftabs.hashnode.dev/" className="text-gray-300 hover:text-emerald-400 transition-colors">Blogs</a>
             <a href="#contact" 
                className="px-4 py-2 bg-emerald-400/10 text-emerald-400 rounded-lg border border-emerald-400/20 
                         hover:bg-emerald-400/20 transition-colors">
